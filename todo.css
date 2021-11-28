@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  font-family: sans-serif;
+}
+
+/* Style the header */
+header {
+  background: indigo;
+  padding: 20px 0px;
+  margin: 0;
+  color: white;
+  text-align: center;
+}
+
+/* Style the Input */
+input {
+  width: 75%;
+  margin-right: 0;
+  padding: 10px;
+  border: none;
+  font-size: 20px;
+}
+
+/* Style the Add Button*/
+.addBtn {
+  width: 25%;
+  padding: 10px 20px;
+  margin-left:-4px;
+  background:lightblue;
+  color:white;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* Hover on the Add Button */
+.addBtn:hover {
+  background-color:black;
+  color: white;
+}
+
+/* Style the list items */
+ul li {
+  cursor: pointer;
+  position: relative;
+  padding: 12px 8px 12px 40px;
+  list-style-position: inside;
+  list-style-type: square;
+  border-bottom: 1px solid black;
+  background: white;
+  font-size: 20px;
+  transition: 0.2s;
+
+}
+
+/* Hover on the list items */
+ul li:hover {
+  background: indigo;
+  color: white;
+ 
+}
+
+/* Style the Box */
+.Box{
+	border: 20px solid indigo;
+}
+
+/* Style the Delete icon */
+.far {
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 12px 16px 12px 16px;
+}
+
+/* Hover on the Delete icon */
+.far:hover {
+  background-color: black;
+  color: white;
+}
+
+
+
+
