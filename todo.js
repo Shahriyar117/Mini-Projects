@@ -12,7 +12,7 @@ class Todo{
         const todoInput = document.querySelector("#myInput").value;
 
         //Check If input is not empty,then form the object which store ID and Text 
-        if (todoInput == " ") {
+        if (todoInput == "") {
             alert("Please enter the todo!!") 
         } else {
             const todo = {
