@@ -1,0 +1,80 @@
+﻿@model IEnumerable<EmployeeDirectory.ViewModel.EmployeeViewModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-8">
+            <h2>Employees</h2>
+		</div>
+        <div class="col-4 text-end">
+            <a asp-controller="Employee" asp-action="Create" class="btn btn-light">
+               <i class="bi bi-plus-circle"></i> &nbsp; Create New 
+			</a>
+		</div>
+	</div>
+    <br /><br />
+
+<table class="table table-bordered table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DepartmentID)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DepartmentID)
+            </td> 
+            <td class="text-end">
+                <a asp-action="Edit" asp-route-id="@item.EmployeeID">
+                    <i class="bi bi-pencil-square"></i>Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.EmployeeID">
+                    <i class="bi bi-ticket-detailed"></i>Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.EmployeeID">
+                     <i class="bi bi-trash-fill"></i>Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+
+

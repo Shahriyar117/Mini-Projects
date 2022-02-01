@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EmployeeDirectory
+build_property.RootNamespace = EmployeeDirectory
+build_property.ProjectDir = C:\Users\Saba Bukhari\Desktop\Employee-Directory 2nd\EmployeeDirectory\EmployeeDirectory\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Saba Bukhari\Desktop\Employee-Directory 2nd\EmployeeDirectory\EmployeeDirectory
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Admin/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Admin/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Department/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Department/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Department/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saba Bukhari/Desktop/Employee-Directory 2nd/EmployeeDirectory/EmployeeDirectory/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-m1dpe2howb
